@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Iris",
+      "image": "www.happy.com",
+      "price": "0.6",
+      "id": 8
+    },
+    {
+      "name": "Pedal",
+      "image": "www.happy.com",
+      "price": "1.41",
+      "id": 9
+    },
+    {
+      "name": "What",
+      "image": "./images/pothos.jpg",
+      "price": 50,
+      "id": 10
     }
   ]
 }
